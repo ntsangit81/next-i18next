@@ -1,4 +1,4 @@
-# next-i18next
+# next-i18next...
 
 [![CircleCI](https://circleci.com/gh/i18next/next-i18next.svg?style=shield)](https://circleci.com/gh/i18next/next-i18next)
 [![Package Quality](https://npm.packagequality.com/shield/next-i18next.svg)](https://packagequality.com/#?package=next-i18next)
@@ -31,7 +31,7 @@ No other requirements: `next-i18next` simplifies internationalisation for your [
 
 Production ready: `next-i18next` supports passing translations and configuration options into pages as props with SSG/SSR support.
 
-## How does it work?
+## How does it work?.
 
 Your `next-i18next.config.js` file will provide configuration for `next-i18next`.
 After configuration, `appWithTranslation` allows us to use the `t` (translate) function in our components via hooks.
